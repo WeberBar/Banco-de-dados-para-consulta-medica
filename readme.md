@@ -2,11 +2,14 @@
 
 Este projeto consiste no banco de dados **ConsultaMedica**, desenvolvido em **MySQL** para gerenciar o processo voluntário de agendamento, cancelamento e conclusão de consultas médicas, além do controle de profissionais, pacientes, especialidades, avaliações e disponibilidade dos profissionais.
 
+🔗 **Veja também o Notion com explicações detalhadas do projeto:**  
+[📝 Notion - Consulta Médica](https://www.notion.so/webrprograming/Criando-um-banco-de-dados-respons-vel-por-consultas-m-dicas-21bd3ea743a1801299e2eb5ea912197f?source=copy_link)
 ---
 
 ## 📑 Índice
 
-- [� Banco de Dados ConsultaMedica (MySQL)](#-banco-de-dados-consultamedica-mysql)
+- [🏥 Banco de Dados ConsultaMedica (MySQL)](#-banco-de-dados-consultamedica-mysql)
+  - [📝 Notion - Consulta Médica](#-notion---consulta-médica)
   - [📑 Índice](#-índice)
   - [🏗️ Estrutura do Banco](#️-estrutura-do-banco)
     - [📋 Principais Tabelas](#-principais-tabelas)
